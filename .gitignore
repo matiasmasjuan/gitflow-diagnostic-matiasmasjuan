@@ -1,0 +1,9 @@
+.vscode/
+*.py[cod]
+*$py.class
+
+*.idea
+*.DS_STORE
+
+farmers-protest-tweets-2021-03-5.json
+/.ipynb_checkpoints
